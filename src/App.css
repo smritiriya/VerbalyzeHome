@@ -1,0 +1,153 @@
+.App {
+  text-align: center;
+}
+
+.navBtn {
+  /* width: "10rem"; */
+  border-radius: "50px";
+  background-color:rgb(2, 2, 186);
+ 
+  color: "white";
+  padding: "10px";
+}
+.headlink{
+  margin:0 15px;
+    padding:  10px;
+      border-radius: 20px;
+/* color: rgb(178, 3, 3); */
+
+}
+
+.headlink:hover{
+  color: rgb(5, 5, 137);
+}
+#Navbar{
+   /* box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+  -moz-box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+  box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3); */
+  /* background-color: #4e54c8; */
+}
+/* -----------------------------  hover---------------------------   */
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #0087ca;
+  margin: 0 18px;
+}
+.hover-underline-animation:hover{
+  color: blue;
+}
+
+.hover-underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #0087ca;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+#banner{
+ padding: 0;
+  
+}
+/* ------------------offer----------- */
+.offerbg{
+  background-color: #f5f5f5;
+  /* padding-top: 5rem; */
+  /* margin: 15rem 0; */
+}
+/* ---------------------feedback --------------- */
+.mycard{
+  background-color: rgb(204, 213, 242);
+  border-radius: 20px;
+  border: none;
+  padding: 1rem;
+  height: "auto";
+  margin: 10px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mycard3{
+  /* background-color: rgb(212, 237, 237); */
+  border-radius: 20px;
+  border: none;
+  /* padding: 1rem; */
+  height: "auto";
+  margin: 10px;
+
+}
+.mycard1{
+   background-color: rgb(204, 213, 242);
+  border-radius: 20px;
+  border: none;
+  padding: 1rem;
+  height: "auto";
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* margin: 10px; */
+}
+.teambg{
+  background-color: #f7fefc;
+}
+
+/* -------------------footer0---------------------- */
+.footer{
+  background-color: #031362;
+  color: white;
+}
+.sendBtn{
+  background-color: #16094F;
+
+  width: 90%;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+.footer-column li {
+ margin: 10px 0;
+}
+.footer-column li a{
+  text-decoration: none;
+  color: rgb(194, 194, 194);
+}
+.footer-column li a:hover{
+  color: skyblue;
+}
+.subfooter a{
+  color: white;
+  margin: 0 10px;
+}
+
+#nav-dropdown{
+  color: white;
+  margin: 0 10px;
+}
+#nav-dropdown:hover{
+  color:skyblue;
+}
+.mybtn:hover{
+  background-color: rgb(108, 41, 254);
+}
+#slideBtn{
+  background-color: #00006a;
+  width: 100%;
+  border: none;
+  color: white;
+  padding: 10px;
+  /* border: 1px solid gainsboro; */
+}
+
+.wallpaper{
+  background-attachment:fixed;
+  background-image: url("../public/wallpaper.jpg");
+  background-size: cover;
+  
+}
