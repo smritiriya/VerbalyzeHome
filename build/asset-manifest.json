@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbe9f208.css",
+    "main.js": "/static/js/main.e601de29.js",
+    "static/js/787.e31fbe94.chunk.js": "/static/js/787.e31fbe94.chunk.js",
+    "static/media/dictionary.gif": "/static/media/dictionary.6ea30fcf5aef4d5f6a87.gif",
+    "static/media/hourglass.gif": "/static/media/hourglass.594375c1e04796f3b72c.gif",
+    "static/media/questions.gif": "/static/media/questions.e321d8670523b0348f4e.gif",
+    "static/media/scale.gif": "/static/media/scale.54a1bff9a1fe93a77985.gif",
+    "static/media/social-media.gif": "/static/media/social-media.c425a61ef0966f7c2ac0.gif",
+    "static/media/shield.gif": "/static/media/shield.7c8a1fede70162c60b3a.gif",
+    "static/media/24-hours.gif": "/static/media/24-hours.0ec9f5c1119a2326b55c.gif",
+    "static/media/views.gif": "/static/media/views.13fc8de4e141ade4ffd5.gif",
+    "static/media/team2.png": "/static/media/team2.5fff2aa2f0d26fd09f6e.png",
+    "static/media/image.png": "/static/media/image.ca824e819d62fbe6aafd.png",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.5f8089f1c33f43a636a7.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fbe9f208.css.map": "/static/css/main.fbe9f208.css.map",
+    "main.e601de29.js.map": "/static/js/main.e601de29.js.map",
+    "787.e31fbe94.chunk.js.map": "/static/js/787.e31fbe94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe9f208.css",
+    "static/js/main.e601de29.js"
+  ]
+}
